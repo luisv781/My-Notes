@@ -18,11 +18,11 @@ Can be measured from local to global scale. Smaller the scale, the more accurate
 Development that has met the needs of the present without compromising the ability of future generations to meet their own needs.
 # Natural Capital vs. Natural Income
 ## Natural Capital
-- Natural capital is a term used for natural resources that can produce a *sustainable* natural income of goods or services.
+- **Natural capital** is a term used for *natural resources* that can produce a *sustainable natural income* of goods or services.
 - Example: Forests are "Natural Capital"
 - It can provide services: erosion control, water management, recycling waste
 ## Natural Income
-- Natural income is the yield(money) obtained from natural resources.
+- **Natural income** is the yield(money) obtained from natural resources.
 - Examples: Timber, from forests, is "Natural Income"
 
-Next -> 
+Next -> [[Sustainability 2]]

@@ -1,4 +1,4 @@
-Progressive Era- ~1900-1920
+Progressive Era ~1900-1920
 **Progressivism**- Response to social ills of industrialization and urbanization
 Main Groups: forward thinking business leaders, labor activists, female reformers, social scientists, middle class
 # Triangle Shirtwaist Fire (1911)
@@ -96,3 +96,4 @@ Friction between generations of women
 - Organized street protests and filled jails
 - Laid foundation for future civil liberties
 
+Next --> [[The Politics of Progressivism]]

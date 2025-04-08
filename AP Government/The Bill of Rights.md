@@ -38,4 +38,4 @@ Declares that other personal liberties not mentioned in the Constitution are sti
 ## 10th Amendment
 Powers not given to the Federal government in the Constitution and not prohibited to the states, are  reserved to the states.
 
-Next -> 
+Next -> [[State and Federal Powers]]

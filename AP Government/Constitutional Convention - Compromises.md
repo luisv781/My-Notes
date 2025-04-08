@@ -58,7 +58,7 @@ When abolishing slavery was suggested, *GA, NC and SC stated they would not join
 If abolishing was not going to happen, the Northern states wanted to *prohibit the country's involvement in the international slave trade*.
 A compromise was worked out, that *Congress could not interfere with importation or exportation of slaves until 1808* (20 years), but could tax the trade.
 > This was *a win for the southern states*, and a *huge* amount of slaves was brought in. The states *recognized that it might get outlawed in the future* and brought in as many as they could.
-
+	
 The question of *counting of slaves with regards to representation was the other major issue*. Do you count the slaves or not? The Native Indians weren't counted.
 Southern states wanted slaves to be counted in the population for representation purposes, while Northern states wanted slaves to be counted as property for taxation purposes.
 > Southern states wanted slaves to be counted to get more power. Northern states disagreed because they were being treated as property and they couldn't even vote.

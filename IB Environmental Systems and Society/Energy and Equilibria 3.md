@@ -17,7 +17,7 @@
 - Since ice caps help reflect solar radiation back to the atmosphere, melting ice caps will increase solar radiation absorption on land
 ## What is a Tipping Point?
 A **tipping point** is *the minimum amount of change within a system that will destabilize it*, causing it to reach a *new equilibrium* or stable state.
-Reached when an ecosystem experiences a new state, where there is a significant change to its biodiversity and services.
+Reached when an ecosystem experiences a *new state*, where there is a *significant change* to its biodiversity and services.
 ### What factors are in tipping points?
 - Changes are *long-lasting* towards environment or system
 - Changes are *hard to reverse*

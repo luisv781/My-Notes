@@ -94,4 +94,4 @@ $\theta=458.149$ rad
 $a_{c}=\frac{v^{2}}{r}$ and $a_{Net}=\sqrt{ a_c^{2} + a_{t}^{2} }$
 *Answers*: $3.8m/s^2$, $4.2m/s^{2}$
 
-Next -> 
+Next -> [[Projectile Motion]]

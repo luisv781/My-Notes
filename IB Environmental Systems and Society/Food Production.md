@@ -1,0 +1,25 @@
+# Sustainability of Terrestrial Food Production Systems
+- The sustainability of terrestrial food production systems is influenced by factors such as: scale, industrialization, seed/crop/livestock choices, water use, pest control, pollinators, or legislation
+- With increased standards of living around the world, diets have changed from mainly plant-based to more consumption of meat & dairy products
+- Animal products require more resources to produce because only 10% of energy is passed on at each trophic level since they are in a higher trophic level.
+- In the past 5 decades crop yields have increased due to technology. New farmland may have come from marginal land (land that doesn't have great potential for farming) or from natural ecosystems
+- In the 1950s, there was a shift from producing food for people's needs (**subsistence farming**) to producing food for commercial profit
+- **Agribusiness** (agri-industrialization) is food production that the goal is to maximize productivity and have a profitable return for capital investment
+- The main characteristics of agribusiness are:
+	- Large-scale monoculture (single-crop cultivation)
+	- Intensive use of fertilizers and pesticides (loss of biodiversity/pollution/eutrophication)
+	- Mechanized ploughing and harvesting
+	- Food production geared to mass markets including export
+- Freshwater use in the agribusiness industry is excessive
+- 70% of the freshwater on Earth is used in agriculture
+- Food production and processing systems contribute to global warming from large amounts of electricity and/or fossil fuels used
+- Agriculture currently consumes approximately 3.1% of total global energy; this is divided into 2.5% in MEDCs and 0.6% in LEDCs.
+- Around 260,000 species of flowering plants depend on bees for pollination
+- Without pollinators, crops that bear fruit/seeds won't produce them
+- Intensive animal farming involves antibiotic use since animals are kept in tightly packed pens, disease can quickly spread
+# Inequalities in the Food Supply
+- Many people in LEDCs are suffering from undernourishment or malnutrition
+- Undernourishment: food intake doesn't contain enough energy
+- Malnutrition: food intake lacks essential nutrients such as protein and minerals
+- About 690 million people globally are undernourished
+- MEDCs have surplus of food, with markets producing too much food for the population to consume
