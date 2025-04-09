@@ -7,6 +7,7 @@ export default defineConfig({
   markdown: {
     math: true
   },
+  base: '/My-Notes/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
