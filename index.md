@@ -7,7 +7,7 @@ hero:
   text: "my tuff notes 😼"
   tagline: 
   image:
-    src: /logo.png
+    src: https://raw.githubusercontent.com/luisv781/My-Notes/refs/heads/main/logo.png
   actions:
     - theme: brand
       text: IB Environmental
